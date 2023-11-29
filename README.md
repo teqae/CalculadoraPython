@@ -30,5 +30,10 @@ Este programa es una calculadora avanzada que realiza operaciones matemáticas b
 1. Abre una terminal.
 2. Navega hasta el directorio donde se encuentra el archivo `calculadora.py`.
 3. Ejecuta el comando: `python calculadora.py`.
+## Vista previa:
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1167594085029269514/1179164592946032771/image.png?ex=6578c99a&is=6566549a&hm=b26aa0409d29e873c5e7c8c5dd52884be06d20044f2a382b97330a0100259727&" height="230"/>
+</p>
 
 ¡Gracias por usar la Calculadora Avanzada por TEQAE!
